@@ -17,4 +17,3 @@ ReactDOM.render(
   </Provider>, /* code change */
   document.getElementById('root')
 );
-We just did a few things here:
